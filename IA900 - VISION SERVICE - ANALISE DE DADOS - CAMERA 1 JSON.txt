@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "3cc1b334-d560-4ddc-99a2-f2e36e0d8b59",
+  "comprimento-do-conteúdo": "165",
+  "tipo de conteúdo": "aplicativo/json; conjunto de caracteres=utf-8",
+  "modelVersion": "2023-10-01",
+  "legendaResultado": {
+    "texto": "uma mulher e uma menina em um supermercado",
+    "confiança": 0,7758269906044006
+  },
+  "metadados": {
+    "largura": 1024,
+    "altura": 682
+  }
+}

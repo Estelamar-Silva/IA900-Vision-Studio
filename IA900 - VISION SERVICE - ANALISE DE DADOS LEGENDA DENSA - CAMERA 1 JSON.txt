@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "d1437f4e-66b0-44b9-8b49-09d48e8a2f26",
+  "comprimento-do-conteúdo": "1366",
+  "tipo de conteúdo": "aplicativo/json; conjunto de caracteres=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "valores": [
+      {
+        "texto": "uma mulher e uma menina em um supermercado",
+        "confiança": 0,7761029005050659,
+        "caixa delimitadora": {
+          "x": 0,
+          "e": 0,
+          "w": 1024,
+          "h": 682
+        }
+      },
+      {
+        "texto": "uma mulher sorrindo enquanto segura um telefone",
+        "confiança": 0,7423653602600098,
+        "caixa delimitadora": {
+          "x": 212,
+          "e": 47,
+          "w": 342,
+          "h": 591
+        }
+      },
+      {
+        "texto": "uma pessoa segurando uma capa de telefone",
+        "confiança": 0,7827686667442322,
+        "caixa delimitadora": {
+          "x": 441,
+          "e": 197,
+          "w": 75,
+          "h": 102
+        }
+      },
+      {
+        "texto": "uma mulher usando um chapéu roxo",
+        "confiança": 0,7496258616447449,
+        "caixa delimitadora": {
+          "x": 467,
+          "e": 311,
+          "em": 433,
+          "h": 357
+        }
+      },
+      {
+        "texto": "uma mulher segurando um celular para uma garota em uma loja",
+        "confiança": 0,7342844009399414,
+        "caixa delimitadora": {
+          "x": 0,
+          "e": 0,
+          "w": 997,
+          "h": 664
+        }
+      },
+      {
+        "texto": "uma pessoa segurando um pedaço de gengibre",
+        "confiança": 0,7659549117088318,
+        "caixa delimitadora": {
+          "x": 701,
+          "e": 246,
+          "w": 156,
+          "h": 119
+        }
+      },
+      {
+        "texto": "um close de uma pessoa usando um chapéu roxo",
+        "confiança": 0,7764438986778259,
+        "caixa delimitadora": {
+          "x": 652,
+          "e": 324,
+          "w": 236,
+          "h": 207
+        }
+      },
+      {
+        "texto": "uma mulher sorrindo para um celular",
+        "confiança": 0,7200127840042114,
+        "caixa delimitadora": {
+          "x": 242,
+          "e": 53,
+          "w": 250,
+          "h": 390
+        }
+      },
+      {
+        "texto": "uma fileira de potes em uma prateleira",
+        "confiança": 0,7118486166000366,
+        "caixa delimitadora": {
+          "x": 0,
+          "e": 301,
+          "w": 217,
+          "h": 120
+        }
+      },
+      {
+        "texto": "uma imagem borrada de uma pessoa parada em uma sala",
+        "confiança": 0,7166162133216858,
+        "caixa delimitadora": {
+          "x": 0,
+          "e": 484,
+          "w": 540,
+          "h": 190
+        }
+      }
+    ]
+  },
+  "metadados": {
+    "largura": 1024,
+    "altura": 682
+  }
+}
